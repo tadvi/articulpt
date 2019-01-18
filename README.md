@@ -1,2 +1,2 @@
 # articulpt
-Package to find articulation point in the graph
+Package to find articulation points in the graph
